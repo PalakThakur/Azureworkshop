@@ -1,0 +1,7 @@
+palak/October@2018
+
+
+
+create a wcf project --> build it ---> save it in git
+publish the web app to azure using vs ---> sync azure to git ---> navigate to dev.azure.com and then follow the video.
+https://www.youtube.com/watch?v=Jeacb9vPKeY 
